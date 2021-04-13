@@ -1,0 +1,11 @@
+plugins {
+    id 'application'
+}
+
+repositories {
+    jcenter()
+}
+
+application {
+    mainClass = 'request.App'
+}

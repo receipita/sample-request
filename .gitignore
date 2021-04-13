@@ -1,0 +1,8 @@
+# Ignore js project node_modules
+webapi-req-js/node_modules/
+
+# Ignore Gradle project-specific cache directory
+webapi-req-java/.gradle
+
+# Ignore Gradle build output directory
+webapi-req-java/build
